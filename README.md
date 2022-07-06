@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **tian-y-x/tian-y-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center><h3>Hi there 👋</h3></center>
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=tian-y-x)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tian-y-x&show_icons=true&locale=en&layout=compact)
