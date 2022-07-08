@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=tian-y-x)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=tian-y-x&show_icons=true&locale=en&layout=compact)
